@@ -166,3 +166,4 @@ export default function ForumPage({ forum, currentProfile, isMember: initialMemb
     </div>
   )
 }
+
